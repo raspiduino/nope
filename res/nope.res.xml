@@ -1,0 +1,4 @@
+<APP id="APP_nope">
+    <RESOLUTION width="240" height="320" class="image" />
+    <STRING>.\res\ref_list_nope.txt</STRING>
+</APP>
